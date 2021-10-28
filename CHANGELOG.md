@@ -9,6 +9,8 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 - shellcheck [`[head]`](https://github.com/CICDToolbox/pycodestyle/commit/)
 
+- shellcheck [`[4c74204]`](https://github.com/CICDToolbox/pycodestyle/commit/4c74204a2f158b7726f69ba8f830a45a55b0066c)
+
 - update readme [`[74b053b]`](https://github.com/CICDToolbox/pycodestyle/commit/74b053ba545750c8cb209815a31a8ebbbe88ed32)
 
 - update [`[77af61f]`](https://github.com/CICDToolbox/pycodestyle/commit/77af61f8a92cae28ed352fd80fd6e7a8babd777b)
