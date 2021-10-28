@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/CICDToolbox/pycodestyle/commits/master)
 
-- update readme [`[head]`](https://github.com/CICDToolbox/pycodestyle/commit/)
+- shellcheck [`[head]`](https://github.com/CICDToolbox/pycodestyle/commit/)
+
+- update readme [`[74b053b]`](https://github.com/CICDToolbox/pycodestyle/commit/74b053ba545750c8cb209815a31a8ebbbe88ed32)
 
 - update [`[77af61f]`](https://github.com/CICDToolbox/pycodestyle/commit/77af61f8a92cae28ed352fd80fd6e7a8babd777b)
 
