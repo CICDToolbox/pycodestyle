@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/CICDToolbox/pycodestyle/commits/master)
 
-- shellcheck [`[head]`](https://github.com/CICDToolbox/pycodestyle/commit/)
+- Fix find command [`[head]`](https://github.com/CICDToolbox/pycodestyle/commit/)
+
+- shellcheck [`[343f907]`](https://github.com/CICDToolbox/pycodestyle/commit/343f907f3ec5d95e526478b05719dfcf1a097321)
 
 - shellcheck [`[4c74204]`](https://github.com/CICDToolbox/pycodestyle/commit/4c74204a2f158b7726f69ba8f830a45a55b0066c)
 
