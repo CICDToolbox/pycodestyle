@@ -9,6 +9,8 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 - Fix find command [`[head]`](https://github.com/CICDToolbox/pycodestyle/commit/)
 
+- Fix find command [`[ef936c7]`](https://github.com/CICDToolbox/pycodestyle/commit/ef936c74627c2bec8dcd1eab913e34a07e8214ee)
+
 - Fix find command [`[b970545]`](https://github.com/CICDToolbox/pycodestyle/commit/b970545e50ecfedb2801e3781994fb0032b8025d)
 
 - shellcheck [`[343f907]`](https://github.com/CICDToolbox/pycodestyle/commit/343f907f3ec5d95e526478b05719dfcf1a097321)
