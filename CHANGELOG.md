@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/CICDToolbox/pycodestyle/commits/master)
 
-- Fix find command [`[head]`](https://github.com/CICDToolbox/pycodestyle/commit/)
+- Make errors easier to see and default to showing errors [`[head]`](https://github.com/CICDToolbox/pycodestyle/commit/)
+
+- Fix find command [`[7b7322c]`](https://github.com/CICDToolbox/pycodestyle/commit/7b7322cd43a97372bd22aabd73f5526e943ee1f6)
 
 - Fix find command [`[ef936c7]`](https://github.com/CICDToolbox/pycodestyle/commit/ef936c74627c2bec8dcd1eab913e34a07e8214ee)
 
