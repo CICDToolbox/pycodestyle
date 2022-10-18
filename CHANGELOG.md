@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/CICDToolbox/pycodestyle/commits/master)
 
-- Make errors easier to see and default to showing errors [`[head]`](https://github.com/CICDToolbox/pycodestyle/commit/)
+- Change the logic for skipping and showing skipped files [`[head]`](https://github.com/CICDToolbox/pycodestyle/commit/)
+
+- Make errors easier to see and default to showing errors [`[dd3dbdf]`](https://github.com/CICDToolbox/pycodestyle/commit/dd3dbdf60160ae07ba861b56640d218a25867902)
 
 - Fix find command [`[7b7322c]`](https://github.com/CICDToolbox/pycodestyle/commit/7b7322cd43a97372bd22aabd73f5526e943ee1f6)
 
