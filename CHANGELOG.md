@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/CICDToolbox/pycodestyle/commits/master)
 
-- Change the logic for skipping and showing skipped files [`[head]`](https://github.com/CICDToolbox/pycodestyle/commit/)
+- Remove false positives [`[head]`](https://github.com/CICDToolbox/pycodestyle/commit/)
+
+- Change the logic for skipping and showing skipped files [`[840fe62]`](https://github.com/CICDToolbox/pycodestyle/commit/840fe628e93ea57ac7bb267edae2d3332d320a2e)
 
 - Make errors easier to see and default to showing errors [`[dd3dbdf]`](https://github.com/CICDToolbox/pycodestyle/commit/dd3dbdf60160ae07ba861b56640d218a25867902)
 
