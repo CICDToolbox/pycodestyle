@@ -3,8 +3,8 @@ message: If you use this software, please cite it using these metadata.
 title: Pycodestyle
 abstract: A tool to check your Python code for code smells using pycodestyle.
 type: software
-version: 0.1.0
-date-released: 2024-05-22
+version: 0.1.1
+date-released: 2024-06-24
 repository-code: https://github.com/CICDToolbox/pycodestyle
 keywords:
   - "Wolf Software"
